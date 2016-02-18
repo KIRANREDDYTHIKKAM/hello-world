@@ -1,3 +1,3 @@
 # hello-world
 example repository
-hello world
+This is cis562 class
